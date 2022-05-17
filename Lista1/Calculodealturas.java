@@ -27,6 +27,7 @@ public class Calculodealturas{
         
         System.out.println("A media das alturas é: "+media);
         //agora e mostrado para o usuario a media.
+        alturas.close();
     }
     
     
